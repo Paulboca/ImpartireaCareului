@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1543275012 source:c:\users\gabriel manolache\desktop\ip\proiect\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+
+1544390541 
+
+1544390541 source:c:\users\manolache gabriel\desktop\proiect\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+
+1547424869 source:c:\users\gabriel manolache\desktop\proiect\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<mmsystem.h>
+
+1547492344 h>
+
+1547492344 source:c:\users\paulb\desktop\proiect\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<mmsystem.h>
+
+1547492344 source:d:\ip project\proiect\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<mmsystem.h>
+
+1547492344 source:/media/paul/Paul/Facultate/IP/ip project/Proiect/main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<mmsystem.h>
+
